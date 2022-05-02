@@ -34,7 +34,7 @@ Your task is to deal with some data structures to solve the subtasks. Subtasks d
 
 ---
 
-### **Binary search tree**
+### **Binary search tree ✓**
 
 ![Binary search tree](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_search_tree.jpg)  
 A **binary tree** is a hierarchical **data structure** in which each **node** has a **value** (in this case, it is also a key) and **links** to the **left** and **right** **children**. The **node** that is at the topmost level (which is not someone else's child) is called the **root**. **Nodes** that have no children are called **leaves**.
