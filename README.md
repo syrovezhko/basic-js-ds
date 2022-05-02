@@ -121,7 +121,7 @@ Write your code in `src/stack.js`.
 
 ---
 
-### **Queue**
+### **Queue ✓**
 Implement the **Queue** with a given interface via **linked list** (use `ListNode` extension).
 Each instance of queue must have 3 methods:
     * `enqueue(value)` — puts the `value` at the end of the **queue** 
