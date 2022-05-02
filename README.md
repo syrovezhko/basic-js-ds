@@ -103,7 +103,7 @@ Write your code in `src/remove-from-list.js`.
 
 ---
 
-### **Stack**
+### **Stack ✓**
 Implement the **Stack** with a given interface via **array**.
 
 For example:
