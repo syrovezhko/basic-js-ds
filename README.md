@@ -82,7 +82,7 @@ Write your code in `src/binary-search-tree.js`.
 ---
 
 
-### **Remove from list**
+### **Remove from list ✓**
 Given a **singly linked list** of integers `l` and an integer `k`, remove all elements from list `l` that have a value equal to `k`.
 
 For example, for `l` = `[3, 1, 2, 3, 4, 5]` and `k` = `3`,
